@@ -2,6 +2,10 @@ import requests
 import json
 import os
 
+'''
+Loads all the country flags from the API https://restcountries.com and saves them in src/assets as .png
+'''
+
 country_file = open("countries.json")
 countries = json.load(country_file)
 
