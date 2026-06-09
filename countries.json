@@ -124,6 +124,7 @@
                 "common": "\u5b89\u572d\u62c9"
             }
         },
+        "cca3": "AIA",
         "capital": [
             "The Valley"
         ],
@@ -258,6 +259,7 @@
                 "common": "\u5371\u5730\u9a6c\u62c9"
             }
         },
+        "cca3": "GTM",
         "capital": [
             "Guatemala City"
         ],
@@ -397,6 +399,7 @@
                 "common": "\u5188\u6bd4\u4e9a"
             }
         },
+        "cca3": "GMB",
         "capital": [
             "Banjul"
         ],
@@ -533,6 +536,7 @@
                 "common": "\u58a8\u897f\u54e5"
             }
         },
+        "cca3": "MEX",
         "capital": [
             "Mexico City"
         ],
@@ -676,6 +680,7 @@
                 "common": "\u9a6c\u62c9\u7ef4"
             }
         },
+        "cca3": "MWI",
         "capital": [
             "Lilongwe"
         ],
@@ -814,6 +819,7 @@
                 "common": "\u76ae\u7279\u51ef\u6069\u7fa4\u5c9b"
             }
         },
+        "cca3": "PCN",
         "capital": [
             "Adamstown"
         ],
@@ -953,6 +959,7 @@
                 "common": "\u963f\u6839\u5ef7"
             }
         },
+        "cca3": "ARG",
         "capital": [
             "Buenos Aires"
         ],
@@ -1103,6 +1110,7 @@
                 "common": "\u5173\u5c9b"
             }
         },
+        "cca3": "GUM",
         "capital": [
             "Hag\u00e5t\u00f1a"
         ],
@@ -1237,6 +1245,7 @@
                 "common": "\u4fdd\u52a0\u5229\u4e9a"
             }
         },
+        "cca3": "BGR",
         "capital": [
             "Sofia"
         ],
@@ -1377,6 +1386,7 @@
                 "common": "\u591a\u7c73\u5c3c\u52a0"
             }
         },
+        "cca3": "DMA",
         "capital": [
             "Roseau"
         ],
@@ -1511,6 +1521,7 @@
                 "common": "\u82f1\u56fd"
             }
         },
+        "cca3": "GBR",
         "capital": [
             "London"
         ],
@@ -1647,6 +1658,7 @@
                 "common": "\u5bc6\u514b\u7f57\u5c3c\u897f\u4e9a"
             }
         },
+        "cca3": "FSM",
         "capital": [
             "Palikir"
         ],
@@ -1781,6 +1793,7 @@
                 "common": "\u5df4\u52d2\u65af\u5766"
             }
         },
+        "cca3": "PSE",
         "capital": [
             "Ramallah",
             "Jerusalem"
@@ -1922,6 +1935,7 @@
                 "common": "\u5e93\u62c9\u7d22"
             }
         },
+        "cca3": "CUW",
         "capital": [
             "Willemstad"
         ],
@@ -2066,6 +2080,7 @@
                 "common": "\u5362\u65fa\u8fbe"
             }
         },
+        "cca3": "RWA",
         "capital": [
             "Kigali"
         ],
@@ -2206,6 +2221,7 @@
                 "common": "\u06c1\u0627\u0646\u06af \u06a9\u0627\u0646\u06af"
             }
         },
+        "cca3": "HKG",
         "capital": [
             "City of Victoria"
         ],
@@ -2347,6 +2363,7 @@
                 "common": "\u4e4c\u5179\u522b\u514b\u65af\u5766"
             }
         },
+        "cca3": "UZB",
         "capital": [
             "Tashkent"
         ],
@@ -2483,6 +2500,7 @@
                 "common": "\u0686\u06cc\u0646"
             }
         },
+        "cca3": "CHN",
         "capital": [
             "Beijing"
         ],
@@ -2639,6 +2657,7 @@
                 "common": "\u585e\u6d66\u8def\u65af"
             }
         },
+        "cca3": "CYP",
         "capital": [
             "Nicosia"
         ],
@@ -2778,6 +2797,7 @@
                 "common": "\u963f\u9c81\u5df4"
             }
         },
+        "cca3": "ABW",
         "capital": [
             "Oranjestad"
         ],
@@ -2912,6 +2932,7 @@
                 "common": "\u7559\u5c3c\u65fa\u5c9b"
             }
         },
+        "cca3": "REU",
         "capital": [
             "Saint-Denis"
         ],
@@ -3046,6 +3067,7 @@
                 "common": "\u97e9\u56fd"
             }
         },
+        "cca3": "KOR",
         "capital": [
             "Seoul"
         ],
@@ -3175,6 +3197,7 @@
                 "common": "\u5357\u6781\u6d32"
             }
         },
+        "cca3": "ATA",
         "capital": [],
         "borders": [],
         "population": 1300,
@@ -3312,6 +3335,7 @@
                 "common": "\u7d22\u9a6c\u91cc"
             }
         },
+        "cca3": "SOM",
         "capital": [
             "Mogadishu"
         ],
@@ -3455,6 +3479,7 @@
                 "common": "\u9ece\u5df4\u5ae9"
             }
         },
+        "cca3": "LBN",
         "capital": [
             "Beirut"
         ],
@@ -3592,6 +3617,7 @@
                 "common": "\u51e0\u5185\u4e9a"
             }
         },
+        "cca3": "GIN",
         "capital": [
             "Conakry"
         ],
@@ -3738,6 +3764,7 @@
                 "common": "\u5854\u5409\u514b\u65af\u5766"
             }
         },
+        "cca3": "TJK",
         "capital": [
             "Dushanbe"
         ],
@@ -3882,6 +3909,7 @@
                 "common": "\u9a6c\u6765\u897f\u4e9a"
             }
         },
+        "cca3": "MYS",
         "capital": [
             "Kuala Lumpur"
         ],
@@ -4020,6 +4048,7 @@
                 "common": "\u671d\u9c9c"
             }
         },
+        "cca3": "PRK",
         "capital": [
             "Pyongyang"
         ],
@@ -4158,6 +4187,7 @@
                 "common": "\u585e\u62c9\u5229\u6602"
             }
         },
+        "cca3": "SLE",
         "capital": [
             "Freetown"
         ],
@@ -4295,6 +4325,7 @@
                 "common": "\u8d1d\u5b81"
             }
         },
+        "cca3": "BEN",
         "capital": [
             "Porto-Novo"
         ],
@@ -4435,6 +4466,7 @@
                 "common": "\u610f\u5927\u5229"
             }
         },
+        "cca3": "ITA",
         "capital": [
             "Rome"
         ],
@@ -4576,6 +4608,7 @@
                 "common": "\u7279\u7acb\u5c3c\u8fbe\u548c\u591a\u5df4\u54e5"
             }
         },
+        "cca3": "TTO",
         "capital": [
             "Port of Spain"
         ],
@@ -4710,6 +4743,7 @@
                 "common": "\u6c99\u7279\u963f\u62c9\u4f2f"
             }
         },
+        "cca3": "SAU",
         "capital": [
             "Riyadh"
         ],
@@ -4852,6 +4886,7 @@
                 "common": "\u54e5\u65af\u8fbe\u9ece\u52a0"
             }
         },
+        "cca3": "CRI",
         "capital": [
             "San Jos\u00e9"
         ],
@@ -4989,6 +5024,7 @@
                 "common": "\u585e\u5c14\u7ef4\u4e9a"
             }
         },
+        "cca3": "SRB",
         "capital": [
             "Belgrade"
         ],
@@ -5142,6 +5178,7 @@
                 "common": "\u6258\u514b\u52b3"
             }
         },
+        "cca3": "TKL",
         "capital": [
             "Fakaofo"
         ],
@@ -5276,6 +5313,7 @@
                 "common": "\u8499\u53e4"
             }
         },
+        "cca3": "MNG",
         "capital": [
             "Ulan Bator"
         ],
@@ -5413,6 +5451,7 @@
                 "common": "\u6587\u83b1"
             }
         },
+        "cca3": "BRN",
         "capital": [
             "Bandar Seri Begawan"
         ],
@@ -5549,6 +5588,7 @@
                 "common": "\u5308\u7259\u5229"
             }
         },
+        "cca3": "HUN",
         "capital": [
             "Budapest"
         ],
@@ -5691,6 +5731,7 @@
                 "common": "\u83ab\u6851\u6bd4\u514b"
             }
         },
+        "cca3": "MOZ",
         "capital": [
             "Maputo"
         ],
@@ -5837,6 +5878,7 @@
                 "common": "\u57fa\u91cc\u5df4\u65af"
             }
         },
+        "cca3": "KIR",
         "capital": [
             "South Tarawa"
         ],
@@ -5976,6 +6018,7 @@
                 "common": "\u6d77\u5730"
             }
         },
+        "cca3": "HTI",
         "capital": [
             "Port-au-Prince"
         ],
@@ -6112,6 +6155,7 @@
                 "common": "\u67ec\u57d4\u5be8"
             }
         },
+        "cca3": "KHM",
         "capital": [
             "Phnom Penh"
         ],
@@ -6250,6 +6294,7 @@
                 "common": "\u57c3\u53ca"
             }
         },
+        "cca3": "EGY",
         "capital": [
             "Cairo"
         ],
@@ -6394,6 +6439,7 @@
                 "common": "\u571f\u5e93\u66fc\u65af\u5766"
             }
         },
+        "cca3": "TKM",
         "capital": [
             "Ashgabat"
         ],
@@ -6533,6 +6579,7 @@
                 "common": "\u963f\u66fc"
             }
         },
+        "cca3": "OMN",
         "capital": [
             "Muscat"
         ],
@@ -6676,6 +6723,7 @@
                 "common": "\u7259\u4e70\u52a0"
             }
         },
+        "cca3": "JAM",
         "capital": [
             "Kingston"
         ],
@@ -6810,6 +6858,7 @@
                 "common": "\u963f\u585e\u62dc\u7586"
             }
         },
+        "cca3": "AZE",
         "capital": [
             "Baku"
         ],
@@ -6951,6 +7000,7 @@
                 "common": "\u65af\u6d1b\u4f10\u514b"
             }
         },
+        "cca3": "SVK",
         "capital": [
             "Bratislava"
         ],
@@ -7096,6 +7146,7 @@
                 "common": "\u767d\u4fc4\u7f57\u65af"
             }
         },
+        "cca3": "BLR",
         "capital": [
             "Minsk"
         ],
@@ -7236,6 +7287,7 @@
                 "common": "\u8d8a\u5357"
             }
         },
+        "cca3": "VNM",
         "capital": [
             "Hanoi"
         ],
@@ -7374,6 +7426,7 @@
                 "common": "\u7f8e\u5c5e\u7ef4\u5c14\u4eac\u7fa4\u5c9b"
             }
         },
+        "cca3": "VIR",
         "capital": [
             "Charlotte Amalie"
         ],
@@ -7508,6 +7561,7 @@
                 "common": "\u76f4\u5e03\u7f57\u9640"
             }
         },
+        "cca3": "GIB",
         "capital": [
             "Gibraltar"
         ],
@@ -7654,6 +7708,7 @@
                 "common": "\u5723\u9a6c\u4e01\u5c9b"
             }
         },
+        "cca3": "SXM",
         "capital": [
             "Philipsburg"
         ],
@@ -7790,6 +7845,7 @@
                 "common": "\u5965\u5170\u7fa4\u5c9b"
             }
         },
+        "cca3": "ALA",
         "capital": [
             "Mariehamn"
         ],
@@ -7924,6 +7980,7 @@
                 "common": "\u53d9\u5229\u4e9a"
             }
         },
+        "cca3": "SYR",
         "capital": [
             "Damascus"
         ],
@@ -8064,6 +8121,7 @@
                 "common": "\u9a6c\u63d0\u5c3c\u514b"
             }
         },
+        "cca3": "MTQ",
         "capital": [
             "Fort-de-France"
         ],
@@ -8198,6 +8256,7 @@
                 "common": "\u683c\u9675\u5170"
             }
         },
+        "cca3": "GRL",
         "capital": [
             "Nuuk"
         ],
@@ -8332,6 +8391,7 @@
                 "common": "\u6d2a\u90fd\u62c9\u65af"
             }
         },
+        "cca3": "HND",
         "capital": [
             "Tegucigalpa"
         ],
@@ -8470,6 +8530,7 @@
                 "common": "\u7a81\u5c3c\u65af"
             }
         },
+        "cca3": "TUN",
         "capital": [
             "Tunis"
         ],
@@ -8617,6 +8678,7 @@
                 "common": "\u79d1\u6469\u7f57"
             }
         },
+        "cca3": "COM",
         "capital": [
             "Moroni"
         ],
@@ -8751,6 +8813,7 @@
                 "common": "\u65af\u6d1b\u6587\u5c3c\u4e9a"
             }
         },
+        "cca3": "SVN",
         "capital": [
             "Ljubljana"
         ],
@@ -8905,6 +8968,7 @@
                 "common": "\u745e\u58eb"
             }
         },
+        "cca3": "CHE",
         "capital": [
             "Bern"
         ],
@@ -9055,6 +9119,7 @@
                 "common": "\u6839\u897f\u5c9b"
             }
         },
+        "cca3": "GGY",
         "capital": [
             "St. Peter Port"
         ],
@@ -9189,6 +9254,7 @@
                 "common": "\u7f05\u7538"
             }
         },
+        "cca3": "MMR",
         "capital": [
             "Naypyidaw"
         ],
@@ -9334,6 +9400,7 @@
                 "common": "\u5df4\u62c9\u572d"
             }
         },
+        "cca3": "PRY",
         "capital": [
             "Asunci\u00f3n"
         ],
@@ -9478,6 +9545,7 @@
                 "common": "\u8377\u862d\u52a0\u52d2\u6bd4\u5340"
             }
         },
+        "cca3": "BES",
         "capital": [
             "Kralendijk"
         ],
@@ -9612,6 +9680,7 @@
                 "common": "\u5df4\u5df4\u591a\u65af"
             }
         },
+        "cca3": "BRB",
         "capital": [
             "Bridgetown"
         ],
@@ -9747,6 +9816,7 @@
                 "common": "\u0645\u06a9\u0627\u0624"
             }
         },
+        "cca3": "MAC",
         "capital": [],
         "borders": [
             "CHN"
@@ -9881,6 +9951,7 @@
                 "common": "\u7ea6\u65e6"
             }
         },
+        "cca3": "JOR",
         "capital": [
             "Amman"
         ],
@@ -10021,6 +10092,7 @@
                 "common": "\u8001\u631d"
             }
         },
+        "cca3": "LAO",
         "capital": [
             "Vientiane"
         ],
@@ -10161,6 +10233,7 @@
                 "common": "\u591a\u54e5"
             }
         },
+        "cca3": "TGO",
         "capital": [
             "Lom\u00e9"
         ],
@@ -10304,6 +10377,7 @@
                 "common": "\u6469\u6d1b\u54e5"
             }
         },
+        "cca3": "MAR",
         "capital": [
             "Rabat"
         ],
@@ -10447,6 +10521,7 @@
                 "common": "\u6ce2\u591a\u9ece\u5404"
             }
         },
+        "cca3": "PRI",
         "capital": [
             "San Juan"
         ],
@@ -10581,6 +10656,7 @@
                 "common": "\u6cd5\u5c5e\u572d\u4e9a\u90a3"
             }
         },
+        "cca3": "GUF",
         "capital": [
             "Cayenne"
         ],
@@ -10718,6 +10794,7 @@
                 "common": "\u5723\u76ae\u57c3\u5c14\u548c\u5bc6\u514b\u9686"
             }
         },
+        "cca3": "SPM",
         "capital": [
             "Saint-Pierre"
         ],
@@ -10852,6 +10929,7 @@
                 "common": "\u5723\u9a6c\u4e01"
             }
         },
+        "cca3": "MAF",
         "capital": [
             "Marigot"
         ],
@@ -10988,6 +11066,7 @@
                 "common": "\u7231\u6c99\u5c3c\u4e9a"
             }
         },
+        "cca3": "EST",
         "capital": [
             "Tallinn"
         ],
@@ -11125,6 +11204,7 @@
                 "common": "\u5370\u5ea6\u5c3c\u897f\u4e9a"
             }
         },
+        "cca3": "IDN",
         "capital": [
             "Jakarta"
         ],
@@ -11273,6 +11353,7 @@
                 "common": "\u585e\u820c\u5c14"
             }
         },
+        "cca3": "SYC",
         "capital": [
             "Victoria"
         ],
@@ -11407,6 +11488,7 @@
                 "common": "\u9a6c\u91cc"
             }
         },
+        "cca3": "MLI",
         "capital": [
             "Bamako"
         ],
@@ -11554,6 +11636,7 @@
                 "common": "\u4e1c\u5e1d\u6c76"
             }
         },
+        "cca3": "TLS",
         "capital": [
             "Dili"
         ],
@@ -11690,6 +11773,7 @@
                 "common": "\u5df4\u897f"
             }
         },
+        "cca3": "BRA",
         "capital": [
             "Bras\u00edlia"
         ],
@@ -11835,6 +11919,7 @@
                 "common": "\u52a0\u7eb3"
             }
         },
+        "cca3": "GHA",
         "capital": [
             "Accra"
         ],
@@ -11978,6 +12063,7 @@
                 "common": "\u80af\u5c3c\u4e9a"
             }
         },
+        "cca3": "KEN",
         "capital": [
             "Nairobi"
         ],
@@ -12118,6 +12204,7 @@
                 "common": "\u51b0\u5c9b"
             }
         },
+        "cca3": "ISL",
         "capital": [
             "Reykjavik"
         ],
@@ -12257,6 +12344,7 @@
                 "common": "\u9a6c\u8fbe\u52a0\u65af\u52a0"
             }
         },
+        "cca3": "MDG",
         "capital": [
             "Antananarivo"
         ],
@@ -12391,6 +12479,7 @@
                 "common": "\u5b5f\u52a0\u62c9\u56fd"
             }
         },
+        "cca3": "BGD",
         "capital": [
             "Dhaka"
         ],
@@ -12548,6 +12637,7 @@
                 "common": "\u6c11\u4e3b\u521a\u679c"
             }
         },
+        "cca3": "COD",
         "capital": [
             "Kinshasa"
         ],
@@ -12762,6 +12852,7 @@
                 "common": "\u6d25\u5df4\u5e03\u97e6"
             }
         },
+        "cca3": "ZWE",
         "capital": [
             "Harare"
         ],
@@ -12901,6 +12992,7 @@
                 "common": "\u6cd5\u5c5e\u6ce2\u5229\u5c3c\u897f\u4e9a"
             }
         },
+        "cca3": "PYF",
         "capital": [
             "Papeet\u0113"
         ],
@@ -13035,6 +13127,7 @@
                 "common": "\u571f\u8033\u5176"
             }
         },
+        "cca3": "TUR",
         "capital": [
             "Ankara"
         ],
@@ -13179,6 +13272,7 @@
                 "common": "\u4f5b\u5f97\u89d2"
             }
         },
+        "cca3": "CPV",
         "capital": [
             "Praia"
         ],
@@ -13313,6 +13407,7 @@
                 "common": "\u591a\u660e\u5c3c\u52a0"
             }
         },
+        "cca3": "DOM",
         "capital": [
             "Santo Domingo"
         ],
@@ -13449,6 +13544,7 @@
                 "common": "\u5df4\u54c8\u9a6c"
             }
         },
+        "cca3": "BHS",
         "capital": [
             "Nassau"
         ],
@@ -13583,6 +13679,7 @@
                 "common": "\u5fb7\u56fd"
             }
         },
+        "cca3": "DEU",
         "capital": [
             "Berlin"
         ],
@@ -13727,6 +13824,7 @@
                 "common": "\u82cf\u91cc\u5357"
             }
         },
+        "cca3": "SUR",
         "capital": [
             "Paramaribo"
         ],
@@ -13870,6 +13968,7 @@
                 "common": "\u6c64\u52a0"
             }
         },
+        "cca3": "TON",
         "capital": [
             "Nuku'alofa"
         ],
@@ -14004,6 +14103,7 @@
                 "common": "\u82f1\u5c5e\u5370\u5ea6\u6d0b\u9886\u5730"
             }
         },
+        "cca3": "IOT",
         "capital": [
             "Diego Garcia"
         ],
@@ -14138,6 +14238,7 @@
                 "common": "\u5723\u5362\u897f\u4e9a"
             }
         },
+        "cca3": "LCA",
         "capital": [
             "Castries"
         ],
@@ -14277,6 +14378,7 @@
                 "common": "\u7231\u5c14\u5170"
             }
         },
+        "cca3": "IRL",
         "capital": [
             "Dublin"
         ],
@@ -14418,6 +14520,7 @@
                 "common": "\u68b5\u8482\u5188"
             }
         },
+        "cca3": "VAT",
         "capital": [
             "Vatican City"
         ],
@@ -14554,6 +14657,7 @@
                 "common": "\u54e5\u4f26\u6bd4\u4e9a"
             }
         },
+        "cca3": "COL",
         "capital": [
             "Bogot\u00e1"
         ],
@@ -14694,6 +14798,7 @@
                 "common": "\u8461\u8404\u7259"
             }
         },
+        "cca3": "PRT",
         "capital": [
             "Lisbon"
         ],
@@ -14835,6 +14940,7 @@
                 "common": "\u6cd5\u7f57\u7fa4\u5c9b"
             }
         },
+        "cca3": "FRO",
         "capital": [
             "T\u00f3rshavn"
         ],
@@ -14969,6 +15075,7 @@
                 "common": "\u5723\u591a\u7f8e\u548c\u666e\u6797\u897f\u6bd4"
             }
         },
+        "cca3": "STP",
         "capital": [
             "S\u00e3o Tom\u00e9"
         ],
@@ -15113,6 +15220,7 @@
                 "common": "\u5317\u9a6c\u91cc\u4e9a\u7eb3\u7fa4\u5c9b"
             }
         },
+        "cca3": "MNP",
         "capital": [
             "Saipan"
         ],
@@ -15257,6 +15365,7 @@
                 "common": "\u6cfd\u897f\u5c9b"
             }
         },
+        "cca3": "JEY",
         "capital": [
             "Saint Helier"
         ],
@@ -15391,6 +15500,7 @@
                 "common": "\u9a6c\u7ea6\u7279"
             }
         },
+        "cca3": "MYT",
         "capital": [
             "Mamoudzou"
         ],
@@ -15525,6 +15635,7 @@
                 "common": "\u4e5f\u95e8"
             }
         },
+        "cca3": "YEM",
         "capital": [
             "Sana'a"
         ],
@@ -15662,6 +15773,7 @@
                 "common": "\u5c3c\u65e5\u5229\u4e9a"
             }
         },
+        "cca3": "NGA",
         "capital": [
             "Abuja"
         ],
@@ -15811,6 +15923,7 @@
                 "common": "\u963f\u5bcc\u6c57"
             }
         },
+        "cca3": "AFG",
         "capital": [
             "Kabul"
         ],
@@ -15957,6 +16070,7 @@
                 "common": "\u535a\u8328\u74e6\u7eb3"
             }
         },
+        "cca3": "BWA",
         "capital": [
             "Gaborone"
         ],
@@ -16101,6 +16215,7 @@
                 "common": "\u9a6c\u6069\u5c9b"
             }
         },
+        "cca3": "IMN",
         "capital": [
             "Douglas"
         ],
@@ -16235,6 +16350,7 @@
                 "common": "\u8428\u5c14\u74e6\u591a"
             }
         },
+        "cca3": "SLV",
         "capital": [
             "San Salvador"
         ],
@@ -16377,6 +16493,7 @@
                 "common": "\u4e4c\u5e72\u8fbe"
             }
         },
+        "cca3": "UGA",
         "capital": [
             "Kampala"
         ],
@@ -16517,6 +16634,7 @@
                 "common": "\u5b89\u9053\u5c14"
             }
         },
+        "cca3": "AND",
         "capital": [
             "Andorra la Vella"
         ],
@@ -16654,6 +16772,7 @@
                 "common": "\u7279\u514b\u65af\u548c\u51ef\u79d1\u65af\u7fa4\u5c9b"
             }
         },
+        "cca3": "TCA",
         "capital": [
             "Cockburn Town"
         ],
@@ -16793,6 +16912,7 @@
                 "common": "\u4e4d\u5f97"
             }
         },
+        "cca3": "TCD",
         "capital": [
             "N'Djamena"
         ],
@@ -16939,6 +17059,7 @@
                 "common": "\u82ac\u5170"
             }
         },
+        "cca3": "FIN",
         "capital": [
             "Helsinki"
         ],
@@ -17077,6 +17198,7 @@
                 "common": "\u4fc4\u7f57\u65af"
             }
         },
+        "cca3": "RUS",
         "capital": [
             "Moscow"
         ],
@@ -17232,6 +17354,7 @@
                 "common": "\u54c8\u8428\u514b\u65af\u5766"
             }
         },
+        "cca3": "KAZ",
         "capital": [
             "Astana"
         ],
@@ -17372,6 +17495,7 @@
                 "common": "\u65af\u74e6\u5c14\u5df4\u7279"
             }
         },
+        "cca3": "SJM",
         "capital": [
             "Longyearbyen"
         ],
@@ -17506,6 +17630,7 @@
                 "common": "\u59d4\u5185\u745e\u62c9"
             }
         },
+        "cca3": "VEN",
         "capital": [
             "Caracas"
         ],
@@ -17644,6 +17769,7 @@
                 "common": "\u6469\u7eb3\u54e5"
             }
         },
+        "cca3": "MCO",
         "capital": [
             "Monaco"
         ],
@@ -17780,6 +17906,7 @@
                 "common": "\u585e\u5185\u52a0\u5c14"
             }
         },
+        "cca3": "SEN",
         "capital": [
             "Dakar"
         ],
@@ -17920,6 +18047,7 @@
                 "common": "\u5c3c\u6cca\u5c14"
             }
         },
+        "cca3": "NPL",
         "capital": [
             "Kathmandu"
         ],
@@ -18057,6 +18185,7 @@
                 "common": "\u963f\u62c9\u4f2f\u8054\u5408\u914b\u957f\u56fd"
             }
         },
+        "cca3": "ARE",
         "capital": [
             "Abu Dhabi"
         ],
@@ -18190,6 +18319,7 @@
                 "common": "\u062a\u0627\u0626\u06cc\u0648\u0627\u0646"
             }
         },
+        "cca3": "TWN",
         "capital": [
             "Taipei"
         ],
@@ -18324,6 +18454,7 @@
                 "common": "\u65b0\u5580\u91cc\u591a\u5c3c\u4e9a"
             }
         },
+        "cca3": "NCL",
         "capital": [
             "Noum\u00e9a"
         ],
@@ -18473,6 +18604,7 @@
                 "common": "\u73bb\u5229\u7ef4\u4e9a"
             }
         },
+        "cca3": "BOL",
         "capital": [
             "Sucre"
         ],
@@ -18613,6 +18745,7 @@
                 "common": "\u667a\u5229"
             }
         },
+        "cca3": "CHL",
         "capital": [
             "Santiago"
         ],
@@ -18751,6 +18884,7 @@
                 "common": "\u79d1\u7279\u8fea\u74e6"
             }
         },
+        "cca3": "CIV",
         "capital": [
             "Yamoussoukro"
         ],
@@ -18891,6 +19025,7 @@
                 "common": "\u5229\u6bd4\u4e9a"
             }
         },
+        "cca3": "LBY",
         "capital": [
             "Tripoli"
         ],
@@ -19042,6 +19177,7 @@
                 "common": "\u79d8\u9c81"
             }
         },
+        "cca3": "PER",
         "capital": [
             "Lima"
         ],
@@ -19187,6 +19323,7 @@
                 "common": "\u52a0\u62ff\u5927"
             }
         },
+        "cca3": "CAN",
         "capital": [
             "Ottawa"
         ],
@@ -19323,6 +19460,7 @@
                 "common": "\u6cd5\u56fd"
             }
         },
+        "cca3": "FRA",
         "capital": [
             "Paris"
         ],
@@ -19471,6 +19609,7 @@
                 "common": "\u5409\u5e03\u63d0"
             }
         },
+        "cca3": "DJI",
         "capital": [
             "Djibouti"
         ],
@@ -19614,6 +19753,7 @@
                 "common": "\u5e03\u9686\u8fea"
             }
         },
+        "cca3": "BDI",
         "capital": [
             "Gitega"
         ],
@@ -19753,6 +19893,7 @@
                 "common": "\u79d1\u7d22\u6c83"
             }
         },
+        "cca3": "UNK",
         "capital": [
             "Pristina"
         ],
@@ -19892,6 +20033,7 @@
                 "common": "\u4e39\u9ea6"
             }
         },
+        "cca3": "DNK",
         "capital": [
             "Copenhagen"
         ],
@@ -20028,6 +20170,7 @@
                 "common": "\u5e0c\u814a"
             }
         },
+        "cca3": "GRC",
         "capital": [
             "Athens"
         ],
@@ -20172,6 +20315,7 @@
                 "common": "\u6377\u514b"
             }
         },
+        "cca3": "CZE",
         "capital": [
             "Prague"
         ],
@@ -20321,6 +20465,7 @@
                 "common": "\u5384\u7acb\u7279\u91cc\u4e9a"
             }
         },
+        "cca3": "ERI",
         "capital": [
             "Asmara"
         ],
@@ -20499,6 +20644,7 @@
                 "common": "\u7eb3\u7c73\u6bd4\u4e9a"
             }
         },
+        "cca3": "NAM",
         "capital": [
             "Windhoek"
         ],
@@ -20638,6 +20784,7 @@
                 "common": "\u82f1\u5c5e\u7ef4\u5c14\u4eac\u7fa4\u5c9b"
             }
         },
+        "cca3": "VGB",
         "capital": [
             "Road Town"
         ],
@@ -20768,6 +20915,7 @@
                 "common": "\u4f0a\u6717"
             }
         },
+        "cca3": "IRN",
         "capital": [
             "Tehran"
         ],
@@ -20920,6 +21068,7 @@
                 "common": "\u8d64\u9053\u51e0\u5185\u4e9a"
             }
         },
+        "cca3": "GNQ",
         "capital": [
             "Ciudad de la Paz"
         ],
@@ -21057,6 +21206,7 @@
                 "common": "\u6bdb\u91cc\u5854\u5c3c\u4e9a"
             }
         },
+        "cca3": "MRT",
         "capital": [
             "Nouakchott"
         ],
@@ -21196,6 +21346,7 @@
                 "common": "\u5df4\u6797"
             }
         },
+        "cca3": "BHR",
         "capital": [
             "Manama"
         ],
@@ -21330,6 +21481,7 @@
                 "common": "\u79d1\u79d1\u65af"
             }
         },
+        "cca3": "CCK",
         "capital": [
             "West Island"
         ],
@@ -21464,6 +21616,7 @@
                 "common": "\u57c3\u585e\u4fc4\u6bd4\u4e9a"
             }
         },
+        "cca3": "ETH",
         "capital": [
             "Addis Ababa"
         ],
@@ -21605,6 +21758,7 @@
                 "common": "\u8d5e\u6bd4\u4e9a"
             }
         },
+        "cca3": "ZMB",
         "capital": [
             "Lusaka"
         ],
@@ -21758,6 +21912,7 @@
                 "common": "\u6ce2\u65af\u5c3c\u4e9a\u548c\u9ed1\u585e\u54e5\u7ef4\u90a3"
             }
         },
+        "cca3": "BIH",
         "capital": [
             "Sarajevo"
         ],
@@ -21896,6 +22051,7 @@
                 "common": "\u798f\u514b\u5170\u7fa4\u5c9b"
             }
         },
+        "cca3": "FLK",
         "capital": [
             "Stanley"
         ],
@@ -22030,6 +22186,7 @@
                 "common": "\u683c\u6797\u7eb3\u8fbe"
             }
         },
+        "cca3": "GRD",
         "capital": [
             "St. George's"
         ],
@@ -22164,6 +22321,7 @@
                 "common": "\u6cf0\u56fd"
             }
         },
+        "cca3": "THA",
         "capital": [
             "Bangkok"
         ],
@@ -22303,6 +22461,7 @@
                 "common": "\u7f57\u9a6c\u5c3c\u4e9a"
             }
         },
+        "cca3": "ROU",
         "capital": [
             "Bucharest"
         ],
@@ -22443,6 +22602,7 @@
                 "common": "\u5723\u6587\u68ee\u7279\u548c\u683c\u6797\u7eb3\u4e01\u65af"
             }
         },
+        "cca3": "VCT",
         "capital": [
             "Kingstown"
         ],
@@ -22577,6 +22737,7 @@
                 "common": "\u5229\u6bd4\u91cc\u4e9a"
             }
         },
+        "cca3": "LBR",
         "capital": [
             "Monrovia"
         ],
@@ -22715,6 +22876,7 @@
                 "common": "\u7f8e\u56fd"
             }
         },
+        "cca3": "USA",
         "capital": [
             "Washington, D.C."
         ],
@@ -22852,6 +23014,7 @@
                 "common": "\u5357\u82cf\u4e39"
             }
         },
+        "cca3": "SSD",
         "capital": [
             "Juba"
         ],
@@ -22993,6 +23156,7 @@
                 "common": "\u5e03\u7ef4\u5c9b"
             }
         },
+        "cca3": "BVT",
         "capital": [],
         "borders": [],
         "population": 0,
@@ -23125,6 +23289,7 @@
                 "common": "\u4e9a\u7f8e\u5c3c\u4e9a"
             }
         },
+        "cca3": "ARM",
         "capital": [
             "Yerevan"
         ],
@@ -23264,6 +23429,7 @@
                 "common": "\u65e5\u672c"
             }
         },
+        "cca3": "JPN",
         "capital": [
             "Tokyo"
         ],
@@ -23403,6 +23569,7 @@
                 "common": "\u5df4\u57fa\u65af\u5766"
             }
         },
+        "cca3": "PAK",
         "capital": [
             "Islamabad"
         ],
@@ -23547,6 +23714,7 @@
                 "common": "\u65af\u5a01\u58eb\u5170"
             }
         },
+        "cca3": "SWZ",
         "capital": [
             "Mbabane"
         ],
@@ -23684,6 +23852,7 @@
                 "common": "\u5217\u652f\u6566\u58eb\u767b"
             }
         },
+        "cca3": "LIE",
         "capital": [
             "Vaduz"
         ],
@@ -23822,6 +23991,7 @@
                 "common": "\u4ee5\u8272\u5217"
             }
         },
+        "cca3": "ISR",
         "capital": [
             "Jerusalem"
         ],
@@ -23967,6 +24137,7 @@
                 "common": "\u7f8e\u5c5e\u8428\u6469\u4e9a"
             }
         },
+        "cca3": "ASM",
         "capital": [
             "Pago Pago"
         ],
@@ -24106,6 +24277,7 @@
                 "common": "\u65af\u91cc\u5170\u5361"
             }
         },
+        "cca3": "LKA",
         "capital": [
             "Sri Jayawardenepura Kotte"
         ],
@@ -24240,6 +24412,7 @@
                 "common": "\u5357\u4e54\u6cbb\u4e9a"
             }
         },
+        "cca3": "SGS",
         "capital": [
             "King Edward Point"
         ],
@@ -24374,6 +24547,7 @@
                 "common": "\u963f\u5c14\u5df4\u5c3c\u4e9a"
             }
         },
+        "cca3": "ALB",
         "capital": [
             "Tirana"
         ],
@@ -24513,6 +24687,7 @@
                 "common": "\u963f\u5c14\u53ca\u5229\u4e9a"
             }
         },
+        "cca3": "DZA",
         "capital": [
             "Algiers"
         ],
@@ -24655,6 +24830,7 @@
                 "common": "\u4e4c\u514b\u5170"
             }
         },
+        "cca3": "UKR",
         "capital": [
             "Kyiv"
         ],
@@ -24797,6 +24973,7 @@
                 "common": "\u5723\u8d6b\u52d2\u62ff\u3001\u963f\u68ee\u677e\u548c\u7279\u91cc\u65af\u5766-\u8fbe\u5e93\u5c3c\u4e9a"
             }
         },
+        "cca3": "SHN",
         "capital": [
             "Jamestown"
         ],
@@ -24931,6 +25108,7 @@
                 "common": "\u8d6b\u5fb7\u5c9b\u548c\u9ea6\u5f53\u52b3\u7fa4\u5c9b"
             }
         },
+        "cca3": "HMD",
         "capital": [],
         "borders": [],
         "population": 0,
@@ -25063,6 +25241,7 @@
                 "common": "\u5723\u9a6c\u529b\u8bfa"
             }
         },
+        "cca3": "SMR",
         "capital": [
             "City of San Marino"
         ],
@@ -25199,6 +25378,7 @@
                 "common": "\u53e4\u5df4"
             }
         },
+        "cca3": "CUB",
         "capital": [
             "Havana"
         ],
@@ -25338,6 +25518,7 @@
                 "common": "\u7459\u9c81"
             }
         },
+        "cca3": "NRU",
         "capital": [
             "Yaren"
         ],
@@ -25475,6 +25656,7 @@
                 "common": "\u897f\u73ed\u7259"
             }
         },
+        "cca3": "ESP",
         "capital": [
             "Madrid"
         ],
@@ -25615,6 +25797,7 @@
                 "common": "\u79d1\u5a01\u7279"
             }
         },
+        "cca3": "KWT",
         "capital": [
             "Kuwait City"
         ],
@@ -25752,6 +25935,7 @@
                 "common": "\u8499\u7279\u585e\u62c9\u7279"
             }
         },
+        "cca3": "MSR",
         "capital": [
             "Plymouth"
         ],
@@ -25896,6 +26080,7 @@
                 "common": "\u6bdb\u91cc\u6c42\u65af"
             }
         },
+        "cca3": "MUS",
         "capital": [
             "Port Louis"
         ],
@@ -26030,6 +26215,7 @@
                 "common": "\u745e\u5178"
             }
         },
+        "cca3": "SWE",
         "capital": [
             "Stockholm"
         ],
@@ -26167,6 +26353,7 @@
                 "common": "\u6fb3\u5927\u5229\u4e9a"
             }
         },
+        "cca3": "AUS",
         "capital": [
             "Canberra"
         ],
@@ -26306,6 +26493,7 @@
                 "common": "\u5580\u9ea6\u9686"
             }
         },
+        "cca3": "CMR",
         "capital": [
             "Yaound\u00e9"
         ],
@@ -26447,6 +26635,7 @@
                 "common": "\u5384\u74dc\u591a\u5c14"
             }
         },
+        "cca3": "ECU",
         "capital": [
             "Quito"
         ],
@@ -26584,6 +26773,7 @@
                 "common": "\u5361\u5854\u5c14"
             }
         },
+        "cca3": "QAT",
         "capital": [
             "Doha"
         ],
@@ -26725,6 +26915,7 @@
                 "common": "\u9a6c\u7ecd\u5c14\u7fa4\u5c9b"
             }
         },
+        "cca3": "MHL",
         "capital": [
             "Majuro"
         ],
@@ -26859,6 +27050,7 @@
                 "common": "\u6ce2\u5170"
             }
         },
+        "cca3": "POL",
         "capital": [
             "Warsaw"
         ],
@@ -27001,6 +27193,7 @@
                 "common": "\u5f00\u66fc\u7fa4\u5c9b"
             }
         },
+        "cca3": "CYM",
         "capital": [
             "George Town"
         ],
@@ -27185,6 +27378,7 @@
                 "common": "\u5357\u975e"
             }
         },
+        "cca3": "ZAF",
         "capital": [
             "Pretoria",
             "Bloemfontein",
@@ -27328,6 +27522,7 @@
                 "common": "\u74e6\u5229\u65af\u548c\u5bcc\u56fe\u7eb3\u7fa4\u5c9b"
             }
         },
+        "cca3": "WLF",
         "capital": [
             "Mata-Utu"
         ],
@@ -27467,6 +27662,7 @@
                 "common": "\u8428\u6469\u4e9a"
             }
         },
+        "cca3": "WSM",
         "capital": [
             "Apia"
         ],
@@ -27601,6 +27797,7 @@
                 "common": "\u8377\u5170"
             }
         },
+        "cca3": "NLD",
         "capital": [
             "Amsterdam"
         ],
@@ -27748,6 +27945,7 @@
                 "common": "\u897f\u6492\u54c8\u62c9"
             }
         },
+        "cca3": "ESH",
         "capital": [
             "El Aai\u00fan"
         ],
@@ -27886,6 +28084,7 @@
                 "common": "\u9ed1\u5c71"
             }
         },
+        "cca3": "MNE",
         "capital": [
             "Podgorica"
         ],
@@ -28026,6 +28225,7 @@
                 "common": "\u4e0d\u4e39"
             }
         },
+        "cca3": "BTN",
         "capital": [
             "Thimphu"
         ],
@@ -28168,6 +28368,7 @@
                 "common": "\u9a6c\u8033\u4ed6"
             }
         },
+        "cca3": "MLT",
         "capital": [
             "Valletta"
         ],
@@ -28312,6 +28513,7 @@
                 "common": "\u74e6\u52aa\u963f\u56fe"
             }
         },
+        "cca3": "VUT",
         "capital": [
             "Port Vila"
         ],
@@ -28451,6 +28653,7 @@
                 "common": "\u5766\u6851\u5c3c\u4e9a"
             }
         },
+        "cca3": "TZA",
         "capital": [
             "Dodoma"
         ],
@@ -28604,6 +28807,7 @@
                 "common": "\u65b0\u897f\u5170"
             }
         },
+        "cca3": "NZL",
         "capital": [
             "Wellington"
         ],
@@ -28743,6 +28947,7 @@
                 "common": "\u5e15\u52b3"
             }
         },
+        "cca3": "PLW",
         "capital": [
             "Ngerulmud"
         ],
@@ -28877,6 +29082,7 @@
                 "common": "\u5df4\u62ff\u9a6c"
             }
         },
+        "cca3": "PAN",
         "capital": [
             "Panama City"
         ],
@@ -29019,6 +29225,7 @@
                 "common": "\u56fe\u74e6\u5362"
             }
         },
+        "cca3": "TUV",
         "capital": [
             "Funafuti"
         ],
@@ -29163,6 +29370,7 @@
                 "common": "\u6590\u6d4e"
             }
         },
+        "cca3": "FJI",
         "capital": [
             "Suva"
         ],
@@ -29297,6 +29505,7 @@
                 "common": "\u5c3c\u52a0\u62c9\u74dc"
             }
         },
+        "cca3": "NIC",
         "capital": [
             "Managua"
         ],
@@ -29439,6 +29648,7 @@
                 "common": "\u5409\u5c14\u5409\u65af\u65af\u5766"
             }
         },
+        "cca3": "KGZ",
         "capital": [
             "Bishkek"
         ],
@@ -29578,6 +29788,7 @@
                 "common": "\u6cd5\u56fd\u5357\u90e8\u548c\u5357\u6781\u571f\u5730"
             }
         },
+        "cca3": "ATF",
         "capital": [
             "Port-aux-Fran\u00e7ais"
         ],
@@ -29712,6 +29923,7 @@
                 "common": "\u62c9\u8131\u7ef4\u4e9a"
             }
         },
+        "cca3": "LVA",
         "capital": [
             "Riga"
         ],
@@ -29851,6 +30063,7 @@
                 "common": "\u683c\u9c81\u5409\u4e9a"
             }
         },
+        "cca3": "GEO",
         "capital": [
             "Tbilisi"
         ],
@@ -30000,6 +30213,7 @@
                 "common": "\u5362\u68ee\u5821"
             }
         },
+        "cca3": "LUX",
         "capital": [
             "Luxembourg"
         ],
@@ -30138,6 +30352,7 @@
                 "common": "\u5965\u5730\u5229"
             }
         },
+        "cca3": "AUT",
         "capital": [
             "Vienna"
         ],
@@ -30281,6 +30496,7 @@
                 "common": "\u5317\u99ac\u5176\u9813"
             }
         },
+        "cca3": "MKD",
         "capital": [
             "Skopje"
         ],
@@ -30421,6 +30637,7 @@
                 "common": "\u5723\u5df4\u6cf0\u52d2\u7c73"
             }
         },
+        "cca3": "BLM",
         "capital": [
             "Gustavia"
         ],
@@ -30555,6 +30772,7 @@
                 "common": "\u5723\u8bde\u5c9b"
             }
         },
+        "cca3": "CXR",
         "capital": [
             "Flying Fish Cove"
         ],
@@ -30689,6 +30907,7 @@
                 "common": "\u6240\u7f57\u95e8\u7fa4\u5c9b"
             }
         },
+        "cca3": "SLB",
         "capital": [
             "Honiara"
         ],
@@ -30823,6 +31042,7 @@
                 "common": "\u5b89\u63d0\u74dc\u548c\u5df4\u5e03\u8fbe"
             }
         },
+        "cca3": "ATG",
         "capital": [
             "Saint John's"
         ],
@@ -30967,6 +31187,7 @@
                 "common": "\u4f0a\u62c9\u514b"
             }
         },
+        "cca3": "IRQ",
         "capital": [
             "Baghdad"
         ],
@@ -31108,6 +31329,7 @@
                 "common": "\u6469\u5c14\u591a\u74e6"
             }
         },
+        "cca3": "MDA",
         "capital": [
             "Chi\u0219in\u0103u"
         ],
@@ -31250,6 +31472,7 @@
                 "common": "\u8bfa\u798f\u514b\u5c9b"
             }
         },
+        "cca3": "NFK",
         "capital": [
             "Kingston"
         ],
@@ -31394,6 +31617,7 @@
                 "common": "\u521a\u679c"
             }
         },
+        "cca3": "COG",
         "capital": [
             "Brazzaville"
         ],
@@ -31539,6 +31763,7 @@
                 "common": "\u7ebd\u57c3"
             }
         },
+        "cca3": "NIU",
         "capital": [
             "Alofi"
         ],
@@ -31673,6 +31898,7 @@
                 "common": "\u7acb\u9676\u5b9b"
             }
         },
+        "cca3": "LTU",
         "capital": [
             "Vilnius"
         ],
@@ -31812,6 +32038,7 @@
                 "common": "\u5c3c\u65e5\u5c14"
             }
         },
+        "cca3": "NER",
         "capital": [
             "Niamey"
         ],
@@ -31954,6 +32181,7 @@
                 "common": "\u572d\u4e9a\u90a3"
             }
         },
+        "cca3": "GUY",
         "capital": [
             "Georgetown"
         ],
@@ -32092,6 +32320,7 @@
                 "common": "\u767e\u6155\u5927"
             }
         },
+        "cca3": "BMU",
         "capital": [
             "Hamilton"
         ],
@@ -32226,6 +32455,7 @@
                 "common": "\u52a0\u84ec"
             }
         },
+        "cca3": "GAB",
         "capital": [
             "Libreville"
         ],
@@ -32369,6 +32599,7 @@
                 "common": "\u5e93\u514b\u7fa4\u5c9b"
             }
         },
+        "cca3": "COK",
         "capital": [
             "Avarua"
         ],
@@ -32503,6 +32734,7 @@
                 "common": "\u5b89\u54e5\u62c9"
             }
         },
+        "cca3": "AGO",
         "capital": [
             "Luanda"
         ],
@@ -32652,6 +32884,7 @@
                 "common": "\u632a\u5a01"
             }
         },
+        "cca3": "NOR",
         "capital": [
             "Oslo"
         ],
@@ -32790,6 +33023,7 @@
                 "common": "\u74dc\u5fb7\u7f57\u666e\u5c9b"
             }
         },
+        "cca3": "GLP",
         "capital": [
             "Basse-Terre"
         ],
@@ -32924,6 +33158,7 @@
                 "common": "\u9a6c\u5c14\u4ee3\u592b"
             }
         },
+        "cca3": "MDV",
         "capital": [
             "Mal\u00e9"
         ],
@@ -33068,6 +33303,7 @@
                 "common": "\u6bd4\u5229\u65f6"
             }
         },
+        "cca3": "BEL",
         "capital": [
             "Brussels"
         ],
@@ -33207,6 +33443,7 @@
                 "common": "\u514b\u7f57\u5730\u4e9a"
             }
         },
+        "cca3": "HRV",
         "capital": [
             "Zagreb"
         ],
@@ -33357,6 +33594,7 @@
                 "common": "\u4f2f\u5229\u5179"
             }
         },
+        "cca3": "BLZ",
         "capital": [
             "Belmopan"
         ],
@@ -33494,6 +33732,7 @@
                 "common": "\u5723\u57fa\u8328\u548c\u5c3c\u7ef4\u65af"
             }
         },
+        "cca3": "KNA",
         "capital": [
             "Basseterre"
         ],
@@ -33639,6 +33878,7 @@
                 "common": "\u0633\u0646\u06af\u0627\u067e\u0648\u0631"
             }
         },
+        "cca3": "SGP",
         "capital": [
             "Singapore"
         ],
@@ -33778,6 +34018,7 @@
                 "common": "\u83b1\u7d22\u6258"
             }
         },
+        "cca3": "LSO",
         "capital": [
             "Maseru"
         ],
@@ -33914,6 +34155,7 @@
                 "common": "\u4e4c\u62c9\u572d"
             }
         },
+        "cca3": "URY",
         "capital": [
             "Montevideo"
         ],
@@ -34051,6 +34293,7 @@
                 "common": "\u5e03\u57fa\u7eb3\u6cd5\u7d22"
             }
         },
+        "cca3": "BFA",
         "capital": [
             "Ouagadougou"
         ],
@@ -34202,6 +34445,7 @@
                 "common": "\u5370\u5ea6"
             }
         },
+        "cca3": "IND",
         "capital": [
             "New Delhi"
         ],
@@ -34348,6 +34592,7 @@
                 "common": "\u83f2\u5f8b\u5bbe"
             }
         },
+        "cca3": "PHL",
         "capital": [
             "Manila"
         ],
@@ -34487,6 +34732,7 @@
                 "common": "\u4e2d\u975e\u5171\u548c\u56fd"
             }
         },
+        "cca3": "CAF",
         "capital": [
             "Bangui"
         ],
@@ -34633,6 +34879,7 @@
                 "common": "\u82cf\u4e39"
             }
         },
+        "cca3": "SDN",
         "capital": [
             "Khartoum"
         ],
@@ -34780,6 +35027,7 @@
                 "common": "\u51e0\u5185\u4e9a\u6bd4\u7ecd"
             }
         },
+        "cca3": "GNB",
         "capital": [
             "Bissau"
         ],
@@ -34927,6 +35175,7 @@
                 "common": "\u5df4\u5e03\u4e9a\u65b0\u51e0\u5185\u4e9a"
             }
         },
+        "cca3": "PNG",
         "capital": [
             "Port Moresby"
         ],
@@ -35063,6 +35312,7 @@
                 "common": "\u7f8e\u56fd\u672c\u571f\u5916\u5c0f\u5c9b\u5c7f"
             }
         },
+        "cca3": "UMI",
         "capital": [
             "Washington DC"
         ],

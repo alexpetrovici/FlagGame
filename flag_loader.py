@@ -11,7 +11,7 @@ countries = json.load(country_file)
 
 for country in countries:
     flag_url = country["flags"]["png"]
-    file_name = country["translations"]["deu"]["official"]
+    file_name = country["cca3"]
     try:
         capital_name = country["capital"][0]
     except IndexError:
