@@ -6,7 +6,7 @@ import os
 Loads all the country flags from the API https://restcountries.com and saves them in src/assets as .png
 '''
 
-country_file = open("countries.json")
+country_file = open("countries.json", encoding="utf-8")
 countries = json.load(country_file)
 
 for country in countries:
