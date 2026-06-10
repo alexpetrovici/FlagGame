@@ -10,7 +10,7 @@ def load_countries(data):
     countries= []
     for country in data:
         cca3 = country['cca3']
-        name_ger = country['translations']["deu"]["official"]
+        name_ger = country['translations']["deu"]["common"]
         capital = country['capital']
         borders = country['borders']
         population = country['population']

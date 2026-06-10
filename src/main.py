@@ -16,15 +16,35 @@ def get_random_country(countries_list):
     random_index = random.randrange(len(countries_list))
     return countries_list.pop(random_index)
 
+def mask_country_name(name):
+    return "".join(char if char in [" ", "-"] else "*"for char in name)
+
 
 def main(page: Page):
     loaded_countries: list[Country] = init_game()
-
+    
     game = {
         "current_country": get_random_country(loaded_countries)
     }
 
+    def country_guess(e):
+        country = game["current_country"]
+
+        guess = country_input.value.strip().lower()
+
+        if guess == country.name_ger.lower():
+            result_text.value = "Correct!"
+        else:
+            result_text.value = (
+                f"Wrong! Correct answer: {country.name_ger}"
+            )
+        
+        masked_country_text.value = f"Country: {country.name_ger}"
+
+        page.update()
+
     result_text = Text(value="", size=30)
+    country_input = ft.TextField(label="Your guess", on_submit=country_guess)
 
     flag_image = Image(
         src=f"{game['current_country'].cca3}.png",
@@ -33,28 +53,28 @@ def main(page: Page):
         repeat=ft.ImageRepeat.NO_REPEAT,
     )
 
+    #text_field_country_name = Text(size=30)
     text_field_capital_name = Text(size=30)
     text_field_continent_name = Text(size=30)
     text_field_population = Text(size=30)
+    masked_country_text = Text(size=30)
 
     def update_view():
         country = game["current_country"]
 
         flag_image.src = f"{country.cca3}.png"
+        masked_country_text.value = f"Country: {mask_country_name(country.name_ger)}"
+        #text_field_country_name.value = f"Country: "
         text_field_capital_name.value = f"Capital: {country.capital[0]}"
         text_field_continent_name.value = f"Continent: {country.continents[0]}"
-        text_field_population.value = (
-            f"Population: {country.population:,}".replace(",", ".")
-        )
+        text_field_population.value = (f"Population: {country.population:,}".replace(",", "."))
         result_text.value = ""
 
-    def country_guess(e):
-        country = game["current_country"]
-        result_text.value = country.name_ger
-        page.update()
 
     def next_country(e):
         game["current_country"] = get_random_country(loaded_countries)
+
+        country_input.value = ""
         update_view()
         page.update()
 
@@ -65,10 +85,13 @@ def main(page: Page):
             route="/",
             controls=[
                 flag_image,
+                masked_country_text,
+                #text_field_country_name,
                 text_field_capital_name,
                 text_field_continent_name,
                 text_field_population,
-                Button("Country Guess", on_click=country_guess),
+                country_input,
+                Button("Check Guess", on_click=country_guess),
                 Button("Next Country", on_click=next_country),
                 result_text,
             ],
