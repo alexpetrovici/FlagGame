@@ -73,6 +73,16 @@ def main(page: Page):
             else:
                 result_text.value = f"Wrong! Try again. Tries: {game['tries']} / 5"
 
+                if game["tries"] == 1:
+                    hint_capital_text.value = f"Capital: {get_capital(country)}"
+
+                elif game["tries"] == 2:
+                    hint_continent_text.value = f"Continent: {get_continent(country)}"
+
+                elif game["tries"] == 3:
+                    population = f"{country.population:,}".replace(",", ".")
+                    hint_population_text.value = f"Population: {population}"
+
         update_counters()
         page.update()
 
@@ -89,13 +99,12 @@ def main(page: Page):
     )
 
 
-    #text_field_country_name = Text(size=30)
-    text_field_capital_name = Text(size=20)
-    text_field_continent_name = Text(size=20)
-    text_field_population = Text(size=20)
     masked_country_text = Text(size=20)
     correct_counter_text = Text(size=15)
     tries_counter_text = Text(size=15)
+    hint_capital_text = Text("Capital: ?", size=20)
+    hint_continent_text = Text("Continent: ?", size=20)
+    hint_population_text = Text("Population: ?", size=20)
 
 
     def update_view():
@@ -103,10 +112,9 @@ def main(page: Page):
 
         flag_image.src = f"{country.cca3}.png"
         masked_country_text.value = f"Country: {mask_country_name(country.name_ger)}"
-        #text_field_country_name.value = f"Country: "
-        text_field_capital_name.value = f"Capital: {get_capital(country)}"
-        text_field_continent_name.value = f"Continent: {get_continent(country)}"
-        text_field_population.value = (f"Population: {country.population:,}".replace(",", "."))
+        hint_capital_text.value = "Capital: ?"
+        hint_continent_text.value = "Continent: ?"
+        hint_population_text.value = "Population: ?"
         result_text.value = ""
         tries_counter_text.value = f"Tries: {game['tries']} / 5"
         correct_counter_text.value = f"Correct answers: {game['correct_answers']}"
@@ -137,10 +145,9 @@ def main(page: Page):
             controls=[
                 flag_image,
                 masked_country_text,
-                #text_field_country_name,
-                text_field_capital_name,
-                text_field_continent_name,
-                text_field_population,
+                hint_capital_text,
+                hint_continent_text,
+                hint_population_text,
                 correct_counter_text,
                 tries_counter_text,
                 country_input,
