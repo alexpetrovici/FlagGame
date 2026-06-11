@@ -91,6 +91,7 @@ def load_highscore():
 
     except FileNotFoundError:
         return "Highscore: -"
+    
 
 
 def main(page: Page):
@@ -193,12 +194,8 @@ def main(page: Page):
 
     def next_country(e):
         if not loaded_countries:
-            if not game["score_saved"]:
-                save_highscore(player_name_input.value, game["correct_answers"])
-                game["score_saved"] = True
-
             highscore_text.value = load_highscore()
-            result_text.value = "Game Over! Score saved."
+            result_text.value = "Game Over!"
             page.update()
             return
 
@@ -210,6 +207,10 @@ def main(page: Page):
         country_input.value = ""
         update_view()
         page.update()
+
+
+    async def exit_game(e):
+        await page.window.close()
 
 
     def new_game(e):
@@ -286,11 +287,14 @@ def main(page: Page):
         spacing=20,
     )
 
+
     new_game_row = ft.Row(
         controls=[
             Button("New Game", on_click=new_game),
+            Button("Exit", on_click=exit_game),
         ],
         alignment=ft.MainAxisAlignment.CENTER,
+        spacing=20,
     )
 
     counters_row = ft.Row(
