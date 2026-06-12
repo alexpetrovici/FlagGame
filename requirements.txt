@@ -7,6 +7,7 @@ charset-normalizer==3.4.7
 click==8.4.1
 colorama==0.4.6
 cookiecutter==2.7.1
+-e git+https://github.com/seenetos/FlagGame@532a9c8685a631af950aee8a482a40c52fa9e580#egg=flaggame
 flet==0.85.3
 flet-cli==0.85.3
 flet-desktop==0.85.3

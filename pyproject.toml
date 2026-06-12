@@ -8,7 +8,8 @@ authors = [
     { name = "Flet developer", email = "you@example.com" }
 ]
 dependencies = [
-    "flet>=0.85.3"
+    "flet>=0.85.3",
+    "Unidecode>=1.4.0"
 ]
 
 [dependency-groups]
@@ -22,6 +23,7 @@ dev = [
 org = "com.mycompany"
 product = "flaggame"
 company = "Flet"
+app_icon = "src/assets/icon.png"
 copyright = "Copyright (C) 2023-2026 by Flet"
 
 [tool.flet.app]

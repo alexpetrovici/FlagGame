@@ -1,5 +1,7 @@
 import json
 import random
+from pathlib import Path
+import os
 
 import flet as ft
 from flet import View, Text, Page, Button, Image
@@ -11,14 +13,21 @@ from logic_handler import load_countries_file, load_countries
 
 # ---------- Constants ----------
 
-HIGHSCORE_FILE = "highscore.json"
+BASE_DIR = Path(__file__).parent
+file_path = BASE_DIR / "assets" / "countries.json"
+
+APP_DATA_DIR = Path.home() / ".flaggame"
+APP_DATA_DIR.mkdir(parents=True, exist_ok=True)
+
+
+HIGHSCORE_FILE = APP_DATA_DIR / "highscore.json"
 MAX_TRIES = 5
 
 
 # ---------- Country helpers ----------
 
 def init_game():
-    countries_json = load_countries_file("countries.json")
+    countries_json = load_countries_file(file_path)
     return load_countries(countries_json)
 
 
