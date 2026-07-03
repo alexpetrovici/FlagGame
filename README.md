@@ -1,5 +1,7 @@
 # Flag Game
 
+[🇬🇧 English](README.md) · [🇩🇪 Deutsch](README.de.md)
+
 An interactive country flag guessing game built with Python and Flet.
 
 Guess the country from its flag, use hints when needed, and try to build the highest score.
