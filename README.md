@@ -63,7 +63,7 @@ A country is removed from the current pool after each round, so it will not appe
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/alexpetrovici/flag-game.git
+git clone https://github.com/alexpetrovici/FlagGame.git
 cd flag-game
 ```
 
