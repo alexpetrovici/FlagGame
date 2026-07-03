@@ -75,8 +75,6 @@ git clone https://github.com/alexpetrovici/FlagGame.git
 cd FlagGame
 ```
 
-Ersetze `<repository-url>` nach der Veröffentlichung durch die URL deines GitHub-Repositories.
-
 ### Abhängigkeiten installieren
 
 ```bash
