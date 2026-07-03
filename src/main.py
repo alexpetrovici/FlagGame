@@ -28,7 +28,13 @@ MAX_TRIES = 5
 
 def init_game():
     countries_json = load_countries_file(file_path)
-    return load_countries(countries_json)
+    countries = load_countries(countries_json)
+
+    return [
+        country
+        for country in countries
+        if (BASE_DIR / "assets" / f"{country.cca3}.png").is_file()
+    ]
 
 
 def get_random_country(countries_list):
