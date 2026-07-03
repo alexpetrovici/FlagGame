@@ -1,11 +1,11 @@
 [project]
 name = "flaggame"
 version = "0.1.0"
-description = ""
+description = "An interactive country flag guessing game built with Python and Flet."
 readme = "README.md"
 requires-python = ">=3.10"
 authors = [
-    { name = "Flet developer", email = "you@example.com" }
+    { name = "Alexandru Petrovici" }
 ]
 dependencies = [
     "flet>=0.85.3",
@@ -20,11 +20,11 @@ dev = [
 ]
 
 [tool.flet]
-org = "com.mycompany"
+org = "com.alexpetrovici"
 product = "flaggame"
-company = "Flet"
+company = "Alexandru Petrovici"
 app_icon = "src/assets/icon.png"
-copyright = "Copyright (C) 2023-2026 by Flet"
+copyright = "Copyright (C) 2026 Alexandru Petrovici"
 
 [tool.flet.app]
 path = "src"
