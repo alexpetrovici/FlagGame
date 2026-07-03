@@ -103,6 +103,7 @@ flag-game/
 ├── flag_loader.py
 ├── pyproject.toml
 ├── README.md
+├── README.de.md
 └── .gitignore
 ```
 
